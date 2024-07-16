@@ -1,0 +1,5 @@
+name: app1
+namespace: xpto
+spec:
+  image: myimage
+  tag: mytag
